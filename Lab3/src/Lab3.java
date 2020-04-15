@@ -4,7 +4,7 @@ import java.io.IOException;
 public class Lab3 {
 	static Scanner in = new Scanner(System.in);
 	Random rand = new Random(System.currentTimeMillis());
-		
+//		
 	public static void main(String[] args) throws IOException {
 		Vehicle Cars[] = new Vehicle[Base.MAXVEHICLENUMBER];
 		char choice = 0;

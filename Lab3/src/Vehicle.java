@@ -5,7 +5,7 @@ public  class Vehicle{
 	protected double petrol_amount;
 	protected double tank_volume;
 	protected boolean isOnBase;
-	 
+//	 
 	public Vehicle(double petrol_amount, double tank_volume) {
 		 this.petrol_amount = petrol_amount;
 		 this.tank_volume = tank_volume;

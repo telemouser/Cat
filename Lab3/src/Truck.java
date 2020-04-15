@@ -3,7 +3,7 @@
 	 public final static double MAXGOODS = 20;
 	 protected double load;
 	 protected double max_load;
-	 
+//	 
 	 public Truck(double load, double max_load, double petrol_amount, double tank_volume){
 		super(petrol_amount, tank_volume);
 		this.load = load;

@@ -3,7 +3,7 @@ public class Bus extends Vehicle{
 	public final static int MAXPEOPLE = 60;
 	protected int people;
 	protected int max_people; 
-	
+//	
 	public Bus(int people, int max_people, double petrol_amount, double tank_volume){
 		 super(petrol_amount, tank_volume);
 		 this.people = people;
